@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-My Projects:
+Projects:
 - [News Viber](https://github.com/shipengtaov/newsviber)
 
 <!--
