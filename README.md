@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 My Projects:
-- [News Viber](newsviber)
+- [News Viber](https://github.com/shipengtaov/newsviber)
 
 <!--
 **shipengtaov/shipengtaov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
