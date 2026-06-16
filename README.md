@@ -1,7 +1,8 @@
 ### Hi there 👋
 
 Projects:
-- [News Viber](https://github.com/shipengtaov/newsviber)
+- [Fatelore](https://fatelore.com): The rest of your life, tarot, etc, AI算命;
+- [News Viber](https://github.com/shipengtaov/newsviber): RSS + AI automation, 定时为你总结新闻;
 
 <!--
 **shipengtaov/shipengtaov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
